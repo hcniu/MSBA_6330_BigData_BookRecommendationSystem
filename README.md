@@ -21,7 +21,7 @@ The video below will provide an introduction to our book recommendation system. 
 [Group 3 Recommendation System Video](https://youtu.be/lq3Jw0CcNqY)
 
 ## Recommendation System Flyer
-[Group 3 Flyer](/msba_6330_group3_trends_marketplace_flyer.pdf)
+[Group 3 Flyer](/flyer.pdf)
 
 ## Technology Used
 We utilized the technologies below to implement our book recommendation system:
